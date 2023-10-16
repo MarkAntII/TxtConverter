@@ -2,7 +2,7 @@ import os
 
 problemTxt = '/problems.txt' #Файл с текстами задачи
 
-tempF = '/IdeaGotBig/LastRes.txt' #Место временного файла
+tempF = '/ILastRes.txt' #Место временного файла
 
 outputF = '/AllreadyConverted/txt.txt' #Место итогого файла 
 
