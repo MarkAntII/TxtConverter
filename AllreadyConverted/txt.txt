@@ -1,0 +1,19 @@
+  Текст задачи 
+ Buullll shiiit
+
+  Код программы 
+a = 21
+print(a)
+  Результат работы программы 
+21
+21
+21
+  Текст задачи 
+sto it
+
+  Код программы 
+print('supse to be first')
+  Результат работы программы 
+supse to be first
+supse to be first
+supse to be first
