@@ -1,12 +1,12 @@
 import os
 
-problemTxt = '/home/ant/Documents/Code/problems.txt' #Файл с текстами задачи
+problemTxt = '/problems.txt' #Файл с текстами задачи
 
-tempF = '/home/ant/Documents/Code/PyCode/IdeaGotBig/LastRes.txt' #Место временного файла
+tempF = '/IdeaGotBig/LastRes.txt' #Место временного файла
 
-outputF = '/home/ant/Documents/Code/AllreadyConverted/txt.txt' #Место итогого файла 
+outputF = '/AllreadyConverted/txt.txt' #Место итогого файла 
 
-dir = '/home/ant/Documents/Code/ForConvert/'   #Дириктория с кодом !Может добавлю какойто метод вовода задач но для этого нужен pdf учебника :(
+dir = '/ForConvert/'   #Дириктория с кодом !Может добавлю какойто метод вовода задач но для этого нужен pdf учебника :(
 
 
 def calcIO(f, n):  #Сохранение результата программы (f)   n раз в временный файл tempF 
